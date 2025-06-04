@@ -8,7 +8,7 @@
   
 ### 📁 디렉토리 구조
 
-growth-log/
+growth-log/ \n
 ├── daily_log.py             # 매일 학습 내용 기록
 ├── logs/
 │   ├── 2025-05-26.md        # 일자별 기록 파일
